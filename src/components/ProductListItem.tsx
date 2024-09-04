@@ -20,6 +20,7 @@ export default ProductListItem
 
 const styles = StyleSheet.create({
     container: {
+        flex: 1,
         backgroundColor: '#fff',
         borderRadius: 10,
         padding: 20,
